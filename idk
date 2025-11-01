@@ -1,0 +1,38 @@
+{
+  "apiUrls": {
+    "firebase": "https://autojoinerchered-default-rtdb.europe-west1.firebasedatabase.app/servers.json?auth=AIzaSyBokCjJ7bIUOk_beo2gWQXst6PKqlFFEpc",
+    "site1": "https://api-finder-v2.vwilliamfrankv.workers.dev/latest",
+    "site2": "https://ja-api.vercel.app/api/animals"
+  },
+  "webhookUrl": "https://discord.com/api/webhooks/1433117539600175197/WxYvYnluzKzkuUixNY0MpVh0DyAIvXSOIy0DsaaHT4pULuodztnmx6tQzOABHB0xGzwN",
+  "targetPetNames": [
+    "Burguro And Fryuro",
+    "Celularcini Viciosini",
+    "Chipso and Queso",
+    "Dragon Cannelloni",
+    "Eviledon",
+    "Garama and Madundung",
+    "Headless Horseman'",
+    "Ketupat Kepat",
+    "La Casa Boo",
+    "La Secret Combinasion",
+    "La Supreme Combinasion",
+    "Los Primos",
+    "Money Money Puggy",
+    "Strawberry Elephant",
+    "Nuclearo Dinossauro",
+    "Noo my examine",
+    "Spaghetti Tualetti",
+    "Spooky and Pumpky",
+    "Tang Tang Keletang",
+    "Tictac Sahur",
+    "Tralaledon",
+    "Ketchuru and Musturu",
+    "Meowl"
+  ],
+  "monitoring": {
+    "isActive": true,
+    "cleanIntervalSeconds": 30,
+    "seenAnimalsTimeoutSeconds": 120
+  }
+}
